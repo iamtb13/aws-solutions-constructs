@@ -64,7 +64,7 @@ or open a new PR to that end.
 
 ### Step 3: Work your Magic
 
-Work your magic. Here are some guidelines:
+Now it's time to work your magic. Here are some guidelines:
 
 * Coding style (abbreviated):
   * In general, follow the style of the code around you
